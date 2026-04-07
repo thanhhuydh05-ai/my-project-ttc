@@ -1,0 +1,55 @@
+﻿
+body {
+  background-color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse; 
+  margin: 20px 0; 
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: darkblue;
+  color: white;
+}
+
+tr:hover {
+  background-color: lightgray;
+}
+</style>
+</head>
+
+<body>
+
+<h2 style="text-align: center; ">Student Table</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>Class</th>
+  </tr>
+  <tr>
+    <td>Huy</td>
+    <td>20</td>
+    <td>20</td>
+    <td>IT</td>
+  </tr>
+  <tr>
+    <td>An</td>
+    <td>21</td>
+    <td>CS</td>
+  </tr>
+</table>
+
+</body>
+</html>
+	
