@@ -19,6 +19,8 @@ div.contaiener{
     text-transform: uppercase;
     text-align: center;
     color:rgb(62, 3, 3);
+    font-size: larger;
+    letter-spacing:3px;
   }
 
   .form-group{
@@ -26,8 +28,8 @@ display: block;
   }
   .form-control{
     display: block;
-    width:100%;
-    padding:0.5px;
+    width:10%;%;
+    padding:1px;
 
   }
   .label {
@@ -36,6 +38,7 @@ display: block;
 .button{
   background-color:darksalmon;
   color:black;
+  border-radius:5px;
   padding:2px;
   margin-top:5px;
 }
