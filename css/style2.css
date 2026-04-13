@@ -1,0 +1,41 @@
+﻿*{
+  padding:0;
+  margin:0;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.contaiener{
+  margin-left:50px;
+  margin-right:50px;
+  background-color:beige;
+  padding:30px;
+
+  }
+  div.container form{
+    background-color: antiquewhite;
+    padding:15px;
+
+  }
+  form h3.title{
+    text-transform: uppercase;
+    text-align: center;
+    color:rgb(62, 3, 3);
+  }
+
+  .form-group{
+display: block;
+  }
+  .form-control{
+    display: block;
+    width:100%;
+    padding:0.5px;
+
+  }
+  .label {
+    color:darkolivegreen;
+  }
+.button{
+  background-color:darksalmon;
+  color:black;
+  padding:2px;
+  margin-top:5px;
+}
